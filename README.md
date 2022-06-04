@@ -26,4 +26,4 @@
   <a href="https://github.com/wanderson-jsilva" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
  </div>
   
-   ![Snake animation](https://https://github.com/wanderson-jsilva/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://https://github.com/wanderson-jsilva/wanderson-jsilva/blob/output/github-contribution-grid-snake.svg)
