@@ -1,6 +1,6 @@
 ## Wanderson Silva
 <ul type='disc'>
-  <li>Estudante Full-Stacks 🖥️</li>
+  <li>Estudante Front-End 🖥️</li>
 </ul>
 
 <div align="left">
